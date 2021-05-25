@@ -1,0 +1,24 @@
+{
+  "name": "Video_StreamIng_Node_Mongo",
+  "version": "1.0.0",
+  "description": "This is a video streaming application API in which you can Perform CRUD operations and connect to the frontend to stream the files",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Real-World-System-Design/Video_StreamIng_Node_Mongo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://Real-World-System-Design/Video_StreamIng_Node_Mongo"
+  },
+  "homepage": "https://Real-World-System-Design/Video_StreamIng_Node_Mongo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.11"
+  }
+}
